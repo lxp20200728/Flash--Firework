@@ -1,0 +1,14 @@
+作业要求：
+	.这是一个填空题，程序主框架已经搭好，核心部分需要你补充完成。
+	·完成Firework类中update()函数，以达到“最终效果.swf”中的烟花效果。
+	·如有需要可以修改并添加类。
+	·不要使用Timer。
+
+素材说明：
+	·所用的素材在Firework.fla中，烟花上升的美术元件的导出类为RaiseMovie，烟花爆炸的美术元件的导出类为ExplodeMovie。
+	·FireworkMain.as为Firework.fla的文档类，已经UI交互已经写好，只需了解其如何整个Demo如何运行即可。
+
+
+请务必自己独立完成，作业完成后先提交到gitlab(https://gitlab.bt/)，再看参考实现（git@gitlab.bt:taojiayang/F02.git）。
+
+如有疑问，可以直接发邮件给我。
