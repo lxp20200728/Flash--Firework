@@ -1,3 +1,4 @@
-��Ŀ��ַ��http://wiki.info/pages/viewpage.action?pageId=11764036
+题目网址：http://wiki.info/pages/viewpage.action?pageId=11764036
 
-IntelliJ IDEA��Ŀ   fla��swf�ļ��ڶ�Ӧ���̵�flashĿ¼��
+new F02文件夹为IntelliJ IDEA项目   fla、swf文件在对应工程的flash目录下  
+F02文件夹为示例资源文件夹
